@@ -43,3 +43,4 @@ DOMAIN-SUFFIX,cnki.com
 DOMAIN-SUFFIX,datauthor.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cumt.edu.cn
+IP-CIDR,202.119.196.0/24,no-resolve
